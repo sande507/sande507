@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=230&section=header&text=Sandeep%20Rajendran&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20SPRING%20BOOT%20LEARNER&descAlignY=58&descSize=17&animation=fadeIn" alt="Sandeep Rajendran welcome banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=230&section=header&text=Sandeep%20Rajendran&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=JAVA%20FULLSTACK%20%7C%20DEVELOPER%20%20&descAlignY=58&descSize=17&animation=fadeIn" alt="Sandeep Rajendran welcome banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+REST+APIs;Learning+and+building+every+day+%F0%9F%9A%80" alt="Typing animation" />
 
