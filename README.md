@@ -10,7 +10,7 @@ Before publishing:
 
 <img
 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Learning%20%7C%20Building%20%7C%20Growing&descSize=17&descAlignY=58"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36
 
 alt="Welcome to my GitHub"
 
